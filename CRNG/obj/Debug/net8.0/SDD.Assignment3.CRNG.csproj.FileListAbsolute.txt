@@ -1,0 +1,14 @@
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\SDD.Assignment3.CRNG\bin\Debug\net8.0\SDD.Assignment3.CRNG.exe
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\SDD.Assignment3.CRNG\bin\Debug\net8.0\SDD.Assignment3.CRNG.deps.json
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\SDD.Assignment3.CRNG\bin\Debug\net8.0\SDD.Assignment3.CRNG.runtimeconfig.json
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\SDD.Assignment3.CRNG\bin\Debug\net8.0\SDD.Assignment3.CRNG.dll
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\SDD.Assignment3.CRNG\bin\Debug\net8.0\SDD.Assignment3.CRNG.pdb
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\SDD.Assignment3.CRNG\obj\Debug\net8.0\SDD.Assignment3.CRNG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\SDD.Assignment3.CRNG\obj\Debug\net8.0\SDD.Assignment3.CRNG.AssemblyInfoInputs.cache
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\SDD.Assignment3.CRNG\obj\Debug\net8.0\SDD.Assignment3.CRNG.AssemblyInfo.cs
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\SDD.Assignment3.CRNG\obj\Debug\net8.0\SDD.Assignment3.CRNG.csproj.CoreCompileInputs.cache
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\SDD.Assignment3.CRNG\obj\Debug\net8.0\SDD.Assignment3.CRNG.dll
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\SDD.Assignment3.CRNG\obj\Debug\net8.0\refint\SDD.Assignment3.CRNG.dll
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\SDD.Assignment3.CRNG\obj\Debug\net8.0\SDD.Assignment3.CRNG.pdb
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\SDD.Assignment3.CRNG\obj\Debug\net8.0\SDD.Assignment3.CRNG.genruntimeconfig.cache
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\SDD.Assignment3.CRNG\obj\Debug\net8.0\ref\SDD.Assignment3.CRNG.dll

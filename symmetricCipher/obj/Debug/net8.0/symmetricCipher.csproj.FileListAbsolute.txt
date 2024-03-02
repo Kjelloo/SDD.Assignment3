@@ -1,0 +1,14 @@
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\symmetricCipher\bin\Debug\net8.0\symmetricCipher.exe
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\symmetricCipher\bin\Debug\net8.0\symmetricCipher.deps.json
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\symmetricCipher\bin\Debug\net8.0\symmetricCipher.runtimeconfig.json
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\symmetricCipher\bin\Debug\net8.0\symmetricCipher.dll
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\symmetricCipher\bin\Debug\net8.0\symmetricCipher.pdb
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\symmetricCipher\obj\Debug\net8.0\symmetricCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\symmetricCipher\obj\Debug\net8.0\symmetricCipher.AssemblyInfoInputs.cache
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\symmetricCipher\obj\Debug\net8.0\symmetricCipher.AssemblyInfo.cs
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\symmetricCipher\obj\Debug\net8.0\symmetricCipher.csproj.CoreCompileInputs.cache
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\symmetricCipher\obj\Debug\net8.0\symmetricCipher.dll
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\symmetricCipher\obj\Debug\net8.0\refint\symmetricCipher.dll
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\symmetricCipher\obj\Debug\net8.0\symmetricCipher.pdb
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\symmetricCipher\obj\Debug\net8.0\symmetricCipher.genruntimeconfig.cache
+C:\Users\kjell\Desktop\school\sem 2\security\SDD.Assignment3\symmetricCipher\obj\Debug\net8.0\ref\symmetricCipher.dll

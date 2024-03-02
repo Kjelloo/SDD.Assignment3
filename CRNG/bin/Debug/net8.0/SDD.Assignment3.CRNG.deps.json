@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SDD.Assignment3.CRNG/1.0.0": {
+        "runtime": {
+          "SDD.Assignment3.CRNG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SDD.Assignment3.CRNG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

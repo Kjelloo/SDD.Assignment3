@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DKPY2Uz53SnQv8CsDn1LQ+skCLQTDcJKGu3gHVpT+8NZ9fHACuZ5IZefAhdEo65iSLsJ0cTgRsKjJgAaJcY+Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kjell\\Desktop\\school\\sem 2\\security\\SDD.Assignment3\\Ed25519\\Ed25519.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kjell\\.nuget\\packages\\libsodium\\1.0.18.2\\libsodium.1.0.18.2.nupkg.sha512",
+    "C:\\Users\\kjell\\.nuget\\packages\\nsec.cryptography\\22.4.0\\nsec.cryptography.22.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
